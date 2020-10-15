@@ -13,7 +13,7 @@ public class Trap : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        PlayerController player = collision.other.GetComponent<PlayerController>();
+        PlayerController player = collision.rigidbody.GetComponent<PlayerController>();
 
         if (player != null)
         {
