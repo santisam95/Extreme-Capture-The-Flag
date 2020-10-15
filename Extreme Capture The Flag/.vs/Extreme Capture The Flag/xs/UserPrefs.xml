@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{45325FB7-C4B2-5A8C-A62A-A23F41E3CD47}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Trap.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="51" Column="12" />
+      <File FileName="Assets/Scripts/Trap.cs" Line="18" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
